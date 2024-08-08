@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 👨‍💻 All of my projects are available at [https://tangerine-kulfi-5d4f32.netlify.app/](https://tangerine-kulfi-5d4f32.netlify.app/)
+- 👨‍💻 All of my projects are available at [here](https://kafitra.my.id)
 
 - 📫 How to reach me **kafitra.marna@gmail.com**
 
